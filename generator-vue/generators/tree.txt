@@ -1,0 +1,46 @@
+©¦  tree.txt
+©¦  
+©¸©¤app
+    ©¦  index.js
+    ©¦  
+    ©¸©¤templates
+        ©¦  .browserslistrc
+        ©¦  .editorconfig
+        ©¦  .env.development
+        ©¦  .env.production
+        ©¦  .eslintrc.js
+        ©¦  .gitignore
+        ©¦  babel.config.js
+        ©¦  package.json
+        ©¦  postcss.config.js
+        ©¦  README.md
+        ©¦  
+        ©À©¤public
+        ©¦      favicon.ico
+        ©¦      index.html
+        ©¦      
+        ©¸©¤src
+            ©¦  App.vue
+            ©¦  main.js
+            ©¦  router.js
+            ©¦  
+            ©À©¤assets
+            ©¦      logo.png
+            ©¦      
+            ©À©¤components
+            ©¦      HelloWorld.vue
+            ©¦      
+            ©À©¤store
+            ©¦      actions.js
+            ©¦      getters.js
+            ©¦      index.js
+            ©¦      mutations.js
+            ©¦      state.js
+            ©¦      
+            ©À©¤utils
+            ©¦      request.js
+            ©¦      
+            ©¸©¤views
+                    About.vue
+                    Home.vue
+                    
