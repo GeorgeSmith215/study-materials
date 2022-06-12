@@ -158,5 +158,5 @@ module.exports = {
     compile,
     build,
     develop,
-    useref,
+    clean,
 }

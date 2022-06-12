@@ -9,13 +9,13 @@
     "pages",
     "czs"
   ],
-  "homepage": "https://github.com/zce/pages-boilerplate#readme",
+  "homepage": "https://github.com/GeorgeSmith215/study-materials/tree/main/pages-boilerplate#readme",
   "bugs": {
-    "url": "https://github.com/zce/pages-boilerplate/issues"
+    "url": "https://github.com/GeorgeSmith215/study-materials/tree/main/pages-boilerplate#issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/pages-boilerplate.git"
+    "url": "git+https://github.com/GeorgeSmith215/study-materials.git"
   },
   "license": "MIT",
   "author": {
@@ -49,9 +49,15 @@
     "del": "^6.1.1",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "7.1.0",
     "gulp-load-plugins": "^2.0.7",
     "gulp-sass": "^5.1.0",
     "gulp-swig": "^0.9.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^5.0.0",
     "sass": "^1.52.2"
   },
   "engines": {
